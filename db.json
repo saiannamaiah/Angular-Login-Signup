@@ -1,0 +1,133 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-serve",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstname": "yashb@gmail.com",
+      "lastname": "yashb@gmail.com",
+      "email": "yashb@gmail.com",
+      "mobile": "5555555",
+      "salary": "4444"
+    },
+    {
+      "id": 3,
+      "firstname": "saib@gmail.com",
+      "lastname": "saib@gmail.com",
+      "email": "saib@gmail.com",
+      "mobile": "07409207250",
+      "salary": "60,000"
+    },
+    {
+      "id": 4,
+      "firstname": "sourav",
+      "lastname": "b",
+      "email": "souravb@gmail.com",
+      "mobile": "07409207250",
+      "salary": "40,000"
+    },
+    {
+      "id": 5,
+      "firstname": "yondab@gmail.com",
+      "lastname": "yondab@gmail.com",
+      "email": "yondab@gmail.com",
+      "mobile": "676767676",
+      "salary": "90,000"
+    },
+    {
+      "id": 6,
+      "firstname": "dc",
+      "lastname": "sdv",
+      "email": "sdvsd",
+      "mobile": "08776756464",
+      "salary": "98778"
+    },
+    {
+      "id": 7,
+      "firstname": "fvf",
+      "lastname": "sfvsf",
+      "email": null,
+      "mobile": null,
+      "salary": null
+    },
+    {
+      "id": 8,
+      "firstname": "sourrvvvv",
+      "lastname": "fgerg",
+      "email": "gegeg",
+      "mobile": "ergegerg",
+      "salary": "ergeg"
+    }
+  ],
+  "signupusers": [
+    {
+      "fullname": "google",
+      "email": "googleb@gmail.com",
+      "mobile": 8096445,
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "fullname": "yasho",
+      "email": "yasho@gmail.com",
+      "mobile": 343535,
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "fullname": "4r4r",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "fullname": "face",
+      "email": "face@gmail.com",
+      "mobile": 999999,
+      "password": "admin",
+      "id": 4
+    },
+    {
+      "fullname": "Sai",
+      "email": "saimvit@gmail.com",
+      "mobile": 8095538043,
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "fullname": "Sai ",
+      "email": "sai123@gmail.com",
+      "mobile": 9900987654,
+      "password": "admin",
+      "id": 6
+    },
+    {
+      "fullname": "Neeraj",
+      "email": "neeraj@gmail.com",
+      "mobile": 99,
+      "password": "admin",
+      "id": 7
+    },
+    {
+      "fullname": "sourav",
+      "email": "souravmadan@gmail.com",
+      "mobile": 93435646,
+      "password": "admin",
+      "id": 8
+    },
+    {
+      "fullname": "chinmay",
+      "email": "chinmay@bdo.in",
+      "mobile": 93939393,
+      "password": "admin",
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
